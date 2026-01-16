@@ -125,6 +125,14 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 5
     h. Top 10 Culinárias com Menores Notas
     i. Top 10 Culinárias com Maior Disponibilidade de Entrega Online
 
+## As ferramentas utilizadas foram:
+ - Python 
+ - Jupyter Lab
+ - Terminal
+ - Streamlit 
+ - Streamlit Cloud
+ - Github
+
 # Top Insights de dados
 1. Destaque: India possui a maior capilaridade com 49 cidades registradas.
 2. Presença: India lidera em volume com 3,111 estabelecimentos cadastrados.
