@@ -1,9 +1,9 @@
 # Problema de negócio
-Parabéns! Você acaba de ser contratado como Cientista de Dados da empresaFome Zero, e a sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra a identificar pontos chaves da empresa, respondendo às perguntas que ele fizerutilizando dados!
-A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu corebusiness é facilitar o encontro e negociações de clientes e restaurantes. Osrestaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibilizainformações como endereço, tipo de culinária servida, se possui reservas, se fazentregas e também uma nota de avaliação dos serviços e produtos do restaurante,dentre outras informações.
+Parabéns! Você acaba de ser contratado como Cientista de Dados da empresaFome Zero, e a sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer utilizando dados!
+A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu corebusiness é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibilizainformações como endereço, tipo de culinária servida, se possui reservas, se fazentregas e também uma nota de avaliação dos serviços e produtos do restaurante,dentre outras informações.
 
 # O Desafio
-O CEO Guerra também foi recém contratado e precisa entender melhor o negóciopara conseguir tomar as melhores decisões estratégicas e alavancar ainda mais aFome Zero, e para isso, ele precisa que seja feita uma análise nos dados daempresa e que sejam gerados dashboards, a partir dessas análises, para responderàs seguintes perguntas:
+O CEO Guerra também foi recém contratado e precisa entender melhor o negóciopara conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados daempresa e que sejam gerados dashboards, a partir dessas análises, para responderàs seguintes perguntas:
 
 ### Geral
 1. Quantos restaurantes únicos estão registrados?
