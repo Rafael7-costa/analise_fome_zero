@@ -1,8 +1,9 @@
+streamlit
 pandas
 numpy
-streamlit
 folium
 streamlit-folium
 inflection
 Pillow
 plotly
+altair<5
